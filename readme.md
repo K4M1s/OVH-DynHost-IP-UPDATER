@@ -5,8 +5,9 @@
 
 ## How to use?
 
-* Clone this repository.
+* Clone this repository. `git clone https://github.com/K4M1s/OVH-DynHost-IP-UPDATER`
 * Install requirements `pip install -r requirements.txt`
+* Copy .env.example to .env and edit its content (domain, login, password)
 * Run script `python app.py`
 
 ---
